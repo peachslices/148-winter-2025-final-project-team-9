@@ -13,7 +13,6 @@
         <h3>Team members</h3>
         <li>Dillon Kim:CE major</li>
         <li>Jason Young:MAE major</li>
-        <li>Sarena Pham:CE major</li>
         </section>
 <section>
 
