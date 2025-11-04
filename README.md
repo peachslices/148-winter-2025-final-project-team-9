@@ -70,8 +70,10 @@
     <p>GPS lap</p>
     https://youtu.be/w0lJrg6fRcE
     <link>https://youtu.be/w0lJrg6fRcE?feature=shared</link>
-    <p>OpenCV lap</p>
+    <p>OpenCV lap right lane</p>
     <link>https://youtu.be/xnzpPU3z34I?feature=shared</link>
+	<p>OpenCV lap left lane</p>
+	<link>https://youtu.be/PawIfVimn50</link>
 </section>
 
 <section>
