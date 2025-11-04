@@ -13,8 +13,7 @@
         <h3>Team members</h3>
         <li>Dillon Kim:CE major</li>
         <li>Jason Young:MAE major</li>
-
-        <li>Sarena Pham</li>
+		<li>Sarena Pham</li>
 <section>
 
 <h3>Final Project: Collision Avoidance</h3>
@@ -69,11 +68,9 @@
 <section>
     <h4>Other Assignments done with the robocar</h4>
     <p>Autonomous lap</p>
-
     <link>https://youtube.com/shorts/MIYmDNecfd0?feature=share</link>
-
     <p>GPS lap</p>
-    
+    https://youtu.be/w0lJrg6fRcE
     <link>https://youtu.be/w0lJrg6fRcE?feature=shared</link>
     <p>OpenCV lap</p>
     <link>https://youtu.be/xnzpPU3z34I?feature=shared</link>
