@@ -14,7 +14,7 @@
         <li>Dillon Kim:CE major</li>
         <li>Jason Young:MAE major</li>
 
-        </section>
+        <li>Sarena Pham</li?
 <section>
 
 <h3>Final Project: Collision Avoidance</h3>
