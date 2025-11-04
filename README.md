@@ -67,8 +67,6 @@
 
 <section>
     <h4>Other Assignments done with the robocar</h4>
-    <p>Autonomous lap</p>
-    <link>https://youtube.com/shorts/MIYmDNecfd0?feature=share</link>
     <p>GPS lap</p>
     https://youtu.be/w0lJrg6fRcE
     <link>https://youtu.be/w0lJrg6fRcE?feature=shared</link>
